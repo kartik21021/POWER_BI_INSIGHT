@@ -1,5 +1,5 @@
 # POWER_BI_INSIGHT
-# 📊 My First Power BI Dashboard – Data Jobs Insight
+# 📊  Power BI Dashboard – Data Jobs Insight
 
 Hey there! 👋  
 This is the **first dashboard** I created using **Power BI**. I had never used it before — just explored, learned, and built this from scratch.  
